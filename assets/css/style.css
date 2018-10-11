@@ -179,6 +179,16 @@ h3, h2 {
 
 /* contact page */
 
+#email {
+  width: 1px;
+  color: blue;
+  text-decoration: underline;
+}
+
+.list-text {
+  margin: 0px;
+}
+
 #contact-form ul {
   margin-bottom: 20px;
 }

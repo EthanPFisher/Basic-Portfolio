@@ -11,3 +11,7 @@
 // document.getElementById("submit-btn").addEventListener("click", function() {
 //     sendMail(); return false
 // });
+
+document.getElementById("email").addEventListener("click", function () {
+    window.location.href = 'mailto:eth.fish@gmail.com'
+});
